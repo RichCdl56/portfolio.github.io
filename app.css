@@ -1,3 +1,5 @@
+/* Portfolio CSS Richard Cdl*/
+
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
 *
 {
@@ -909,7 +911,7 @@ h3 span
     {
         width: 40px;
         height: 40px;
-        background: url(file:///C:/Users/richa/OneDrive/Bureau/Projet/Code/portfolio/drive-download-20201124T205433Z-001/menu.png);
+        background: url(file:///C:/Users/richa/OneDrive/Bureau/Projet/Code/portfolio/Image/menu.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 30px;
@@ -918,7 +920,7 @@ h3 span
     }
     .toggle.active
     {
-        background: url(file:///C:/Users/richa/OneDrive/Bureau/Projet/Code/portfolio/drive-download-20201124T205433Z-001/menu.png);
+        background: url(file:///C:/Users/richa/OneDrive/Bureau/Projet/Code/portfolio/image/menu.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 25px;
